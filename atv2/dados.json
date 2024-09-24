@@ -1,0 +1,370 @@
+[
+    {
+      "nome": "Camiseta Básica",
+      "valor": 29.99,
+      "quantidade": 120,
+      "fabricante": "Confecções XYZ",
+      "categoria": "Roupas",
+      "descricao": "Camiseta básica 100% algodão, disponível em várias cores."
+    },
+    {
+      "nome": "Calça Jeans",
+      "valor": 89.90,
+      "quantidade": 75,
+      "fabricante": "Moda Denim",
+      "categoria": "Roupas",
+      "descricao": "Calça jeans skinny com elastano para maior conforto."
+    },
+    {
+      "nome": "Smartphone XYZ",
+      "valor": 1999.99,
+      "quantidade": 50,
+      "fabricante": "Tecnologia ABC",
+      "categoria": "Eletrônicos",
+      "descricao": "Smartphone com tela de 6.5 polegadas, 128GB de armazenamento e câmera de 48MP."
+    },
+    {
+      "nome": "Tênis Esportivo",
+      "valor": 149.99,
+      "quantidade": 200,
+      "fabricante": "SportMax",
+      "categoria": "Calçados",
+      "descricao": "Tênis esportivo leve e confortável, ideal para corridas e caminhadas."
+    },
+    {
+      "nome": "Mochila Escolar",
+      "valor": 59.90,
+      "quantidade": 180,
+      "fabricante": "EscolarPro",
+      "categoria": "Acessórios",
+      "descricao": "Mochila escolar resistente com vários compartimentos."
+    },
+    {
+      "nome": "Relógio de Pulso",
+      "valor": 199.99,
+      "quantidade": 90,
+      "fabricante": "TempoFino",
+      "categoria": "Acessórios",
+      "descricao": "Relógio de pulso à prova d'água com mostrador analógico e digital."
+    },
+    {
+      "nome": "Livro de Ficção",
+      "valor": 39.99,
+      "quantidade": 150,
+      "fabricante": "Editora XYZ",
+      "categoria": "Livros",
+      "descricao": "Livro de ficção best-seller, emocionante do início ao fim."
+    },
+    {
+      "nome": "Fone de Ouvido",
+      "valor": 99.90,
+      "quantidade": 60,
+      "fabricante": "AudioTech",
+      "categoria": "Eletrônicos",
+      "descricao": "Fone de ouvido com cancelamento de ruído e som de alta qualidade."
+    },
+    {
+      "nome": "Notebook UltraSlim",
+      "valor": 3499.99,
+      "quantidade": 30,
+      "fabricante": "Computech",
+      "categoria": "Eletrônicos",
+      "descricao": "Notebook ultra fino com 16GB de RAM e 512GB SSD."
+    },
+    {
+      "nome": "Câmera Digital",
+      "valor": 1299.99,
+      "quantidade": 45,
+      "fabricante": "FotoPro",
+      "categoria": "Eletrônicos",
+      "descricao": "Câmera digital com lente intercambiável e gravação em 4K."
+    },
+    {
+      "nome": "Bicicleta Mountain Bike",
+      "valor": 899.90,
+      "quantidade": 20,
+      "fabricante": "BikePro",
+      "categoria": "Esportes",
+      "descricao": "Bicicleta mountain bike com suspensão dupla e 21 marchas."
+    },
+    {
+      "nome": "Jogo de Panelas",
+      "valor": 299.90,
+      "quantidade": 100,
+      "fabricante": "CozinhaPerfeita",
+      "categoria": "Utensílios Domésticos",
+      "descricao": "Jogo de panelas antiaderentes com 5 peças."
+    },
+    {
+      "nome": "Chuteira de Futebol",
+      "valor": 179.90,
+      "quantidade": 80,
+      "fabricante": "EsporteTop",
+      "categoria": "Calçados",
+      "descricao": "Chuteira de futebol com travas de alta aderência."
+    },
+    {
+      "nome": "Batedeira Planetária",
+      "valor": 499.99,
+      "quantidade": 35,
+      "fabricante": "EletroMix",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Batedeira planetária com 8 velocidades e tigela de inox."
+    },
+    {
+      "nome": "Jogo de Toalhas",
+      "valor": 79.90,
+      "quantidade": 150,
+      "fabricante": "CasaConforto",
+      "categoria": "Cama, Mesa e Banho",
+      "descricao": "Jogo de toalhas 100% algodão com 5 peças."
+    },
+    {
+      "nome": "Tablet 10 polegadas",
+      "valor": 999.99,
+      "quantidade": 40,
+      "fabricante": "TechPad",
+      "categoria": "Eletrônicos",
+      "descricao": "Tablet com tela de 10 polegadas, 64GB de armazenamento e câmera frontal de 8MP."
+    },
+    {
+      "nome": "Luminária de Mesa",
+      "valor": 59.90,
+      "quantidade": 110,
+      "fabricante": "LuzPerfeita",
+      "categoria": "Iluminação",
+      "descricao": "Luminária de mesa com ajuste de intensidade e braço flexível."
+    },
+    {
+      "nome": "Ventilador de Coluna",
+      "valor": 129.90,
+      "quantidade": 70,
+      "fabricante": "ArFresco",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Ventilador de coluna com 3 velocidades e oscilação."
+    },
+    {
+      "nome": "Torradeira Elétrica",
+      "valor": 89.90,
+      "quantidade": 60,
+      "fabricante": "CaféQuente",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Torradeira elétrica com 2 compartimentos e controle de temperatura."
+    },
+    {
+      "nome": "Mouse Óptico",
+      "valor": 49.90,
+      "quantidade": 100,
+      "fabricante": "TechMouse",
+      "categoria": "Informática",
+      "descricao": "Mouse óptico com fio, alta precisão e design ergonômico."
+    },
+    {
+      "nome": "Roteador Wi-Fi",
+      "valor": 199.99,
+      "quantidade": 55,
+      "fabricante": "NetSpeed",
+      "categoria": "Informática",
+      "descricao": "Roteador Wi-Fi dual band com alta velocidade e ampla cobertura."
+    },
+    {
+      "nome": "Bolsa Feminina",
+      "valor": 139.90,
+      "quantidade": 90,
+      "fabricante": "ModaFina",
+      "categoria": "Acessórios",
+      "descricao": "Bolsa feminina em couro sintético com compartimentos internos."
+    },
+    {
+      "nome": "Cafeteira Expresso",
+      "valor": 349.99,
+      "quantidade": 50,
+      "fabricante": "CaféPerfeito",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Cafeteira expresso com bomba de pressão de 15 bar."
+    },
+    {
+      "nome": "Liquidificador 5 velocidades",
+      "valor": 149.99,
+      "quantidade": 70,
+      "fabricante": "MixTudo",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Liquidificador com 5 velocidades e copo de vidro resistente."
+    },
+    {
+      "nome": "Smart TV 55 polegadas",
+      "valor": 2999.99,
+      "quantidade": 30,
+      "fabricante": "VisionTech",
+      "categoria": "Eletrônicos",
+      "descricao": "Smart TV 55 polegadas 4K UHD com sistema operacional Android."
+    },
+    {
+      "nome": "Fritadeira sem Óleo",
+      "valor": 299.99,
+      "quantidade": 50,
+      "fabricante": "SaúdeFrita",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Fritadeira sem óleo com capacidade de 4 litros e controle de temperatura."
+    },
+    {
+      "nome": "Fogão 4 bocas",
+      "valor": 799.90,
+      "quantidade": 25,
+      "fabricante": "CozinhaTop",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Fogão 4 bocas com acendimento automático e forno com grill."
+    },
+    {
+      "nome": "Máquina de Lavar 10kg",
+      "valor": 1499.99,
+      "quantidade": 20,
+      "fabricante": "LavaRápido",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Máquina de lavar com capacidade de 10kg e painel digital."
+    },
+    {
+      "nome": "Jogo de Lençol",
+      "valor": 99.90,
+      "quantidade": 120,
+      "fabricante": "CasaBela",
+      "categoria": "Cama, Mesa e Banho",
+      "descricao": "Jogo de lençol 100% algodão com 4 peças."
+    },
+    {
+      "nome": "Smartwatch",
+      "valor": 399.99,
+      "quantidade": 40,
+      "fabricante": "TechWatch",
+      "categoria": "Eletrônicos",
+      "descricao": "Smartwatch com monitor de batimentos cardíacos e GPS."
+    },
+    {
+      "nome": "Aspirador de Pó",
+      "valor": 299.99,
+      "quantidade": 35,
+      "fabricante": "LimpaTudo",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Aspirador de pó vertical com filtro HEPA e alta potência."
+    },
+    {
+      "nome": "Teclado Mecânico",
+      "valor": 249.99,
+      "quantidade": 50,
+      "fabricante": "GamePro",
+      "categoria": "Informática",
+      "descricao": "Teclado mecânico com iluminação RGB e switches de alta durabilidade."
+    },
+    {
+      "nome": "Micro-ondas 30L",
+      "valor": 699.99,
+      "quantidade": 25,
+      "fabricante": "CozinhaRápida",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Micro-ondas com capacidade de 30 litros e diversas funções de cozimento."
+    },
+    {
+      "nome": "Cadeira Gamer",
+      "valor": 899.99,
+      "quantidade": 30,
+      "fabricante": "ComfortGame",
+      "categoria": "Móveis",
+      "descricao": "Cadeira gamer ergonômica com ajuste de altura e inclinação."
+    },
+    {
+      "nome": "Sofá 3 Lugares",
+      "valor": 1499.99,
+      "quantidade": 15,
+      "fabricante": "ConfortoLar",
+      "categoria": "Móveis",
+      "descricao": "Sofá 3 lugares em tecido suede, disponível em várias cores."
+    },
+    {
+      "nome": "Cooktop 5 bocas",
+      "valor": 1099.99,
+      "quantidade": 20,
+      "fabricante": "CozinhaPremium",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Cooktop 5 bocas a gás com acendimento automático."
+    },
+    {
+      "nome": "Forno Elétrico",
+      "valor": 499.99,
+      "quantidade": 40,
+      "fabricante": "AssaTudo",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Forno elétrico com capacidade de 45 litros e timer digital."
+    },
+    {
+      "nome": "Rádio Portátil",
+      "valor": 79.90,
+      "quantidade": 60,
+      "fabricante": "SomPortátil",
+      "categoria": "Eletrônicos",
+      "descricao": "Rádio portátil com AM/FM e entrada para USB."
+    },
+    {
+      "nome": "Lava-Louças",
+      "valor": 2499.99,
+      "quantidade": 15,
+      "fabricante": "LavaBem",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Máquina lava-louças com capacidade para 12 serviços e painel digital."
+    },
+    {
+      "nome": "Máquina de Costura",
+      "valor": 799.99,
+      "quantidade": 20,
+      "fabricante": "CosturaFácil",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Máquina de costura portátil com 12 pontos e braço livre."
+    },
+    {
+      "nome": "Cozinha Compacta",
+      "valor": 1999.99,
+      "quantidade": 10,
+      "fabricante": "MóveisCompactos",
+      "categoria": "Móveis",
+      "descricao": "Cozinha compacta com armários, balcão e espaço para micro-ondas."
+    },
+    {
+      "nome": "Guarda-Roupa 6 portas",
+      "valor": 2499.99,
+      "quantidade": 10,
+      "fabricante": "ArmazenaTudo",
+      "categoria": "Móveis",
+      "descricao": "Guarda-roupa 6 portas com espelho e várias prateleiras internas."
+    },
+    {
+      "nome": "Aquecedor Elétrico",
+      "valor": 299.99,
+      "quantidade": 40,
+      "fabricante": "ClimaBom",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Aquecedor elétrico portátil com 3 níveis de aquecimento."
+    },
+    {
+      "nome": "Tablet Infantil",
+      "valor": 499.99,
+      "quantidade": 30,
+      "fabricante": "KidsTech",
+      "categoria": "Eletrônicos",
+      "descricao": "Tablet infantil com proteção reforçada e aplicativos educacionais."
+    },
+    {
+      "nome": "Purificador de Água",
+      "valor": 399.99,
+      "quantidade": 25,
+      "fabricante": "ÁguaPura",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Purificador de água com sistema de filtragem avançado e painel touch."
+    },
+    {
+      "nome": "Ar Condicionado Split",
+      "valor": 1999.99,
+      "quantidade": 20,
+      "fabricante": "ClimaPerfeito",
+      "categoria": "Eletrodomésticos",
+      "descricao": "Ar condicionado split 12000 BTUs com função quente e frio."
+    }
+  ]
